@@ -2,6 +2,7 @@ rencana konten fajar
 -javascript
  * ES6
  * framework javascript
+-struktur data dasar
 -interview
 -vlog
 -php framework
