@@ -3,6 +3,7 @@ rencana konten fajar
  * ES6
  * framework javascript
   ^ vue
+  ^ React
 -struktur data dasar
 -interview
 -vlog
